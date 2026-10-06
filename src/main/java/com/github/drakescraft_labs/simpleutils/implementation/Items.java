@@ -15,11 +15,11 @@ import com.github.drakescraft_labs.simpleutils.implementation.blocks.Elevator;
 import com.github.drakescraft_labs.simpleutils.implementation.blocks.Sieve;
 import com.github.drakescraft_labs.simpleutils.implementation.blocks.Workbench;
 import com.github.drakescraft_labs.simpleutils.implementation.tools.Wrench;
-import com.github.drakescraft_labs.slimefun4.api.items.ItemGroup;
-import com.github.drakescraft_labs.slimefun4.api.items.SlimefunItemStack;
-import com.github.drakescraft_labs.slimefun4.api.recipes.RecipeType;
-import com.github.drakescraft_labs.slimefun4.implementation.SlimefunItems;
-import com.github.drakescraft_labs.slimefun4.libraries.dough.items.CustomItemStack;
+import io.github.thebusybiscuit.slimefun4.api.items.ItemGroup;
+import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
+import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
+import io.github.thebusybiscuit.slimefun4.implementation.SlimefunItems;
+import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
 
 @UtilityClass
 public final class Items {
