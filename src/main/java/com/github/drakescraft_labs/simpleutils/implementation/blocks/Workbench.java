@@ -37,9 +37,9 @@ import io.github.thebusybiscuit.slimefun4.implementation.Slimefun;
 import io.github.thebusybiscuit.slimefun4.implementation.items.backpacks.SlimefunBackpack;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.items.ItemStackSnapshot;
-import io.github.thebusybiscuit.slimefun4.legacy.api.inventory.BlockMenu;
-import io.github.thebusybiscuit.slimefun4.legacy.api.inventory.BlockMenuPreset;
-import io.github.thebusybiscuit.slimefun4.legacy.api.inventory.DirtyChestMenu;
+import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
+import me.mrCookieSlime.Slimefun.api.inventory.BlockMenuPreset;
+import me.mrCookieSlime.Slimefun.api.inventory.DirtyChestMenu;
 
 @ParametersAreNonnullByDefault
 public final class Workbench extends MenuBlock implements Listener {

@@ -25,8 +25,8 @@ import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun4.core.handlers.BlockBreakHandler;
 import me.mrCookieSlime.CSCoreLibPlugin.Configuration.Config;
-import io.github.thebusybiscuit.slimefun4.legacy.Objects.handlers.BlockTicker;
-import io.github.thebusybiscuit.slimefun4.legacy.api.BlockStorage;
+import me.mrCookieSlime.Slimefun.Objects.handlers.BlockTicker;
+import me.mrCookieSlime.Slimefun.api.BlockStorage;
 
 public final class Elevator extends SlimefunItem implements Listener {
 
