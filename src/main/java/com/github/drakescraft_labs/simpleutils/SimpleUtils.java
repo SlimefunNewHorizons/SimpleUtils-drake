@@ -1,7 +1,6 @@
 package com.github.drakescraft_labs.simpleutils;
 
 
-import com.github.drakescraft_labs.labupdate.DrakesLabsReleaseUpdate;
 import java.io.File;
 
 import org.bukkit.plugin.PluginDescriptionFile;
@@ -25,7 +24,6 @@ public final class SimpleUtils extends AbstractAddon {
 
     @Override
     protected void enable() {
-        DrakesLabsReleaseUpdate.schedule(this, "SimpleUtils-drake");
 
         Items.setup(this);
 
